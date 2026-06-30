@@ -1,0 +1,91 @@
+{
+  "app": {
+    "tagline": "Verken de technische productclassificatie ETIM"
+  },
+  "nav": {
+    "home": "Home",
+    "classes": "Klassen",
+    "features": "Kenmerken",
+    "values": "Waarden",
+    "units": "Eenheden",
+    "groups": "Groepen",
+    "search": "Zoeken"
+  },
+  "common": {
+    "search_placeholder": "Zoek klassen, kenmerken, waarden…",
+    "language": "Taal",
+    "fallback_hint": "Geen vertaling in deze taal; Engels wordt getoond",
+    "no_results": "Geen resultaten",
+    "loading": "Laden…",
+    "results_count": "{count} resultaten",
+    "view_all": "Alles bekijken",
+    "all": "Alle",
+    "clear_filters": "Filters wissen",
+    "translations": "Vertalingen",
+    "showing_capped": "Eerste {cap} van {total}",
+    "showing_more": "Eerste {cap} — meer aanwezig",
+    "error_title": "Er is iets misgegaan",
+    "retry": "Opnieuw proberen"
+  },
+  "stats": {
+    "classes": "Klassen",
+    "features": "Kenmerken",
+    "values": "Waarden",
+    "units": "Eenheden",
+    "groups": "Groepen",
+    "synonyms": "Synoniemen",
+    "languages": "Talen"
+  },
+  "home": {
+    "title": "ETIM 10.0 Explorer",
+    "subtitle": "Blader door de volledige ETIM-classificatie — groepen, klassen, kenmerken, waarden, eenheden en synoniemen — in uw taal.",
+    "browse_classes": "Klassen bekijken",
+    "explore": "Verkennen"
+  },
+  "classes": {
+    "title": "Klassen",
+    "col_code": "Code",
+    "col_name": "Naam",
+    "col_change": "Wijziging",
+    "col_version": "Ver",
+    "col_group": "Groep",
+    "col_features": "Kenmerken"
+  },
+  "features": {
+    "title": "Kenmerken",
+    "col_code": "Code",
+    "col_name": "Naam",
+    "col_type": "Type",
+    "col_group": "Kenmerkgroep",
+    "filter_type": "Type",
+    "filter_group": "Kenmerkgroep",
+    "used_by": "Klassen met dit kenmerk"
+  },
+  "values": {
+    "title": "Waarden",
+    "col_code": "Code",
+    "col_name": "Omschrijving",
+    "used_by": "Kenmerken met deze waarde"
+  },
+  "units": {
+    "title": "Eenheden",
+    "col_code": "Code",
+    "col_name": "Naam",
+    "col_abbr": "Afk.",
+    "abbreviation": "Afkorting",
+    "used_by": "Klassen met deze eenheid"
+  },
+  "groups": {
+    "title": "Groepen",
+    "col_code": "Code",
+    "col_name": "Naam",
+    "col_classes": "Klassen",
+    "classes_in_group": "Klassen in deze groep"
+  },
+  "search": {
+    "title": "Zoeken",
+    "prompt": "Typ een term om klassen, kenmerken, waarden, eenheden en groepen te doorzoeken.",
+    "results_for": "Resultaten voor “{q}”",
+    "synonyms": "Klassen (gevonden via synoniem)"
+  }
+}

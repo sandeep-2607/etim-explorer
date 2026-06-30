@@ -1,0 +1,93 @@
+{
+  "app": {
+    "name": "ETIM Explorer",
+    "tagline": "Explore the ETIM technical product classification"
+  },
+  "nav": {
+    "home": "Home",
+    "classes": "Classes",
+    "features": "Features",
+    "values": "Values",
+    "units": "Units",
+    "groups": "Groups",
+    "search": "Search"
+  },
+  "common": {
+    "search_placeholder": "Search classes, features, values…",
+    "language": "Language",
+    "fallback": "EN",
+    "fallback_hint": "No translation in this language; showing English",
+    "no_results": "No results",
+    "loading": "Loading…",
+    "results_count": "{count} results",
+    "view_all": "View all",
+    "all": "All",
+    "clear_filters": "Clear filters",
+    "translations": "Translations",
+    "showing_capped": "Showing first {cap} of {total}",
+    "showing_more": "Showing first {cap} — more exist",
+    "error_title": "Something went wrong",
+    "retry": "Retry"
+  },
+  "stats": {
+    "classes": "Classes",
+    "features": "Features",
+    "values": "Values",
+    "units": "Units",
+    "groups": "Groups",
+    "synonyms": "Synonyms",
+    "languages": "Languages"
+  },
+  "home": {
+    "title": "ETIM 10.0 Explorer",
+    "subtitle": "Browse the full ETIM classification — groups, classes, features, values, units and synonyms — in your language.",
+    "browse_classes": "Browse classes",
+    "explore": "Explore"
+  },
+  "classes": {
+    "title": "Classes",
+    "col_code": "Code",
+    "col_name": "Name",
+    "col_change": "Change",
+    "col_version": "Ver",
+    "col_group": "Group",
+    "col_features": "Features"
+  },
+  "features": {
+    "title": "Features",
+    "col_code": "Code",
+    "col_name": "Name",
+    "col_type": "Type",
+    "col_group": "Feature group",
+    "filter_type": "Type",
+    "filter_group": "Feature group",
+    "used_by": "Classes using this feature"
+  },
+  "values": {
+    "title": "Values",
+    "col_code": "Code",
+    "col_name": "Description",
+    "used_by": "Features using this value"
+  },
+  "units": {
+    "title": "Units",
+    "col_code": "Code",
+    "col_name": "Name",
+    "col_abbr": "Abbr",
+    "abbreviation": "Abbreviation",
+    "used_by": "Classes using this unit"
+  },
+  "groups": {
+    "title": "Groups",
+    "col_code": "Code",
+    "col_name": "Name",
+    "col_classes": "Classes",
+    "classes_in_group": "Classes in this group"
+  },
+  "search": {
+    "title": "Search",
+    "prompt": "Type a term to search classes, features, values, units and groups.",
+    "results_for": "Results for “{q}”",
+    "synonyms": "Classes (matched by synonym)"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "app": {
+    "tagline": "Entdecken Sie die technische Produktklassifizierung ETIM"
+  },
+  "nav": {
+    "home": "Startseite",
+    "classes": "Klassen",
+    "features": "Merkmale",
+    "values": "Werte",
+    "units": "Einheiten",
+    "groups": "Gruppen",
+    "search": "Suche"
+  },
+  "common": {
+    "search_placeholder": "Klassen, Merkmale, Werte suchen…",
+    "language": "Sprache",
+    "fallback_hint": "Keine Übersetzung in dieser Sprache; Englisch wird angezeigt",
+    "no_results": "Keine Ergebnisse",
+    "loading": "Wird geladen…",
+    "results_count": "{count} Ergebnisse",
+    "view_all": "Alle anzeigen",
+    "all": "Alle",
+    "clear_filters": "Filter zurücksetzen",
+    "translations": "Übersetzungen",
+    "showing_capped": "Zeige erste {cap} von {total}",
+    "showing_more": "Zeige erste {cap} — weitere vorhanden",
+    "error_title": "Etwas ist schiefgelaufen",
+    "retry": "Erneut versuchen"
+  },
+  "stats": {
+    "classes": "Klassen",
+    "features": "Merkmale",
+    "values": "Werte",
+    "units": "Einheiten",
+    "groups": "Gruppen",
+    "synonyms": "Synonyme",
+    "languages": "Sprachen"
+  },
+  "home": {
+    "title": "ETIM 10.0 Explorer",
+    "subtitle": "Durchsuchen Sie die vollständige ETIM-Klassifizierung — Gruppen, Klassen, Merkmale, Werte, Einheiten und Synonyme — in Ihrer Sprache.",
+    "browse_classes": "Klassen durchsuchen",
+    "explore": "Entdecken"
+  },
+  "classes": {
+    "title": "Klassen",
+    "col_code": "Code",
+    "col_name": "Name",
+    "col_change": "Änderung",
+    "col_version": "Ver",
+    "col_group": "Gruppe",
+    "col_features": "Merkmale"
+  },
+  "features": {
+    "title": "Merkmale",
+    "col_code": "Code",
+    "col_name": "Name",
+    "col_type": "Typ",
+    "col_group": "Merkmalsgruppe",
+    "filter_type": "Typ",
+    "filter_group": "Merkmalsgruppe",
+    "used_by": "Klassen mit diesem Merkmal"
+  },
+  "values": {
+    "title": "Werte",
+    "col_code": "Code",
+    "col_name": "Beschreibung",
+    "used_by": "Merkmale mit diesem Wert"
+  },
+  "units": {
+    "title": "Einheiten",
+    "col_code": "Code",
+    "col_name": "Name",
+    "col_abbr": "Abk.",
+    "abbreviation": "Abkürzung",
+    "used_by": "Klassen mit dieser Einheit"
+  },
+  "groups": {
+    "title": "Gruppen",
+    "col_code": "Code",
+    "col_name": "Name",
+    "col_classes": "Klassen",
+    "classes_in_group": "Klassen in dieser Gruppe"
+  },
+  "search": {
+    "title": "Suche",
+    "prompt": "Geben Sie einen Begriff ein, um Klassen, Merkmale, Werte, Einheiten und Gruppen zu durchsuchen.",
+    "results_for": "Ergebnisse für „{q}“",
+    "synonyms": "Klassen (über Synonym gefunden)"
+  }
+}
